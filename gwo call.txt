@@ -1,0 +1,15 @@
+In the GWO call ST Classic production server down they assembled to resolve the issue and firstly checked the 
+server connectivity and active status
+ that server working on JBoss, JBoss is an application server it is developed by Redhat.
+on that server they checked all the logs in that server all are in healthy state and they checked java database
+ connectivity it shows
+healthy state, they decided to restart the JBoss server
+on that server following commands are used
+
+ls -lrth
+logs
+chgrep
+less
+tail
+top
+they assembled to resolve the issue and firstly checked the server connectivity and active status and performed a health check in Linux

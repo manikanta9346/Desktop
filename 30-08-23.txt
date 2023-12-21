@@ -1,0 +1,40 @@
+Data base
+data
+information
+knowledge
+wisdom
+Data science
+1 data analytics
+2 data visulaziation
+ Qlik ep uses
+data encapusulation
+data encripition
+data encripted bills
+data 2 types
+master data
+transctional data
+DBMS
+structured
+unstructured
+RDBMS
+mysql
+oracle
+IBMDB2 first
+columnised databases only single column
+SEqel
+DB2,MICROSOFT,Mongo DB EP uses
+snowflake ,graphical dbs,
+NRSA national Remote Sattilite 
+INSAT
+casandra db
+Dynmo db
+Document db
+RDS adora
+legcecy
+NIC
+BLOB storing images
+TRIAGE:
+
+
+
+

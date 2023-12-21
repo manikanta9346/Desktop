@@ -1,0 +1,67 @@
+HR berry portal password : India@123
+
+
+probing
+closed ended questions
+open ended questions
+15/08/23
+when we do it?
+what we have do it?
+how we have do it?
+why we have do it?
+why are we doning this task?
+what is the purpose of the task?
+what are the list of reqirements?
+Did i notedown all the requirements?
+Did i understand the requirements?
+Did i clarify the requiremnts i did unterstand?
+Where we look for information?
+What does information has to be submitted?
+In what type or manner should information submitted?
+Whom do i contact to get more information?
+What do i do to get more information contact person is unavialble?
+How do i know the information i researed fix my requiremnts?
+If does not meet my requirements where can inforamtion cab=n use?
+what are the different methods to get same information?
+what tools i need to get the information
+what tools i need to process and anlysise the information?
+Do i have necessary tools to acess process and analyse the information?
+what are the alternative tools that are easily and freely acessible that caters my requirements?
+
+sa sa sha shasa sasha(1000)
+sa see su sa sha she shusa 
+shosow simsha sitsat
+
+16/08/2023
+stack chart remember it
+FAT
+TDD
+production analysis- insights
+1 know the severity of the issue
+
+know the severity of the issue by going through the card or by talking to the PDM/scrum master
+
+2 understand the scope of the card
+
+read the issue throughly and understand the scope of the card
+
+3 check for similar issues
+look for similar issues raised in jira using lot of keywords. you may find a similar issue fixed earlier
+
+4 find the test cases of the functionality 
+if no similar issues found in jira look up for the testcases of the functiononality 
+
+5 reach out the sme
+do an intial go through/analysis and reach out the sme to get some ideas in throse areas of the isseue
+
+6 find the logs 
+
+look at the below places for different types of logs based on the isseue 
+
+ 
+
+
+
+
+
+

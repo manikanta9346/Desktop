@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=rmFX1V49K8U
+https://www.youtube.com/watch?v=Ca1jnqwqzg0
+https://www.youtube.com/watch?v=Q3WpcO6vtQ8
+ip address
+https://ipinfo.io/ips
+https://www.avast.com/c-ip-address-public-vs-private
+Today, I revised the topics what Vaibhav teach ping, data flow, OSI model ,how data is sent from sender to the receiver,
+ basic characteristics of computer network, fault tolerance continuous working despite failure ensure no loss of service,
+ scalability growing on based on the needs and have good performance after growth, 
+quality of service set priorities and mange data traffic to reduce data loss, security the ability to
+ provide confidentiality, integrity and availability, data communication simplex communication always unidirectional
+ half duplex communication done on both directions but not at the same time and full duplex communication done
+ on both directions simultaneously,
+ Domain Name System(DNS) how to managing the mapping between names and numbers, difference between private IP address
+ and public IP address,
+ difference between Hyper Text Transfer Protocol(HTTP) and Hyper Text Transfer Protocol Secure(HTTPS) how they work in 
+application layer
+ and how data encrypted,
+ OSI layer working, Transmission Control Protocol(TCP).
+distinguishing between Hyper Text Transfer Protocol (HTTP) and Hyper Text Transfer Protocol Secure (HTTPS) 
+in their operation at the application layer 
+and data encryption."
+maxaline vs feminine
